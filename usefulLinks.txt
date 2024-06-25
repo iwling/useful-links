@@ -1,0 +1,17 @@
+полезные сыллки для Unity
+
+https://www.mixamo.com/#/  --  mixamo(для скачивания ассетов анимаций персонажа)
+https://assetstore.unity.com/ -- unity store(ассеты для unity)
+https://polyhaven.com/textures -- poly haven(текстуры)
+https://hdri-haven.com/ -- hdri haven(hdri карты)
+https://sketchfab.com/features/free-3d-models -- sketchfab(3D модели)
+
+
+________________________________________________________________________________________________________________
+
+полезные сыллки на GitHub
+
+https://github.com/KM0205/README-PROJECT.git -- Поэтапная работа с Git/GitHub
+https://km0205.github.io/KarMa-site/ -- сайт KarMa
+
+________________________________________________________________________________________________________________
